@@ -152,3 +152,23 @@ SabancıDx de Software Developer olarak çalışmaktadır.
 [https://medium.com/@sadedil](https://medium.com/@sadedil)
 
 Beğendiğim makalesi; Microsoftun Azure dedikleri adlı makalesidir.
+
+**Devler Azure da etkinlikler**
+
+- Yazılım Güvenliği – Bir uygulama nasıl hacklenir ?
+
+Özgür Alp , Bug Bounty Hunter &amp; Offensive Security Consultant
+
+9 Haziran Salı - 17:00-18:00
+
+- Containerlar ve Kubernetes -Kubernetes İş Yükleri
+
+Pamir Erdem - Microsoft Türkiye, Azure Teknik Eğitmen
+
+16 Nisan Perşembe 17:00 - 18:30
+
+**Yazılım Yarışmaları**
+
+GGJ ([https://www.ggjege.org/](https://www.ggjege.org/))
+
+Global Game Jam, Eğitim Odak Grubunun yönlendirmesiyle ortaya çıkan, tüm dünyada eş zamanlı gerçekleştirilen bir oyun geliştirme etkinliğidir. Global Game Jam Dünya&#39;da oyun geliştirilmesi amacıyla birçok öğrenciyi, profesyoneli ve akademisyeni bir araya getiren dünya genelindeki en büyük oyun geliştirme organizasyonudur.
